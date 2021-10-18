@@ -1,0 +1,8 @@
+{
+  "name": "nlw-heat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:gamadv/nlw-heat.git",
+  "author": "Moacir Gama Leal Júnior <lealdev.py@gmail.com>",
+  "license": "MIT"
+}
